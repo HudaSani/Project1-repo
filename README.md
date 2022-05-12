@@ -10,4 +10,5 @@
 #### 2.2 Model Pipeline
 ##### A very simple Feed-forward Neural Network (FNN) with a single hidden layer is constructed for this classification problem. The model is trained for 20 epochs using 15 batch size before being evaluated using test data set. The graph of training process is displayed using Tensor Board to observe the performance of the model throughout the iterations.
 ### 3. Result 
-##### Training process of the model resulting in 90% accuracy. Meanwhile, evalution resylt using test data set achieve 91% accuracy.
+##### Training process of the model resulting in 90% accuracy. Meanwhile, evalution result using test data set achieve 91% accuracy.
+##### ![result](https://github.com/HudaSani/Project1-repo/blob/master/img1/testing%20result.PNG?raw=True "Evaluation Result")
